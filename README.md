@@ -36,3 +36,6 @@ Both APK's don't have `<uses-permission android:name="android.permission.USE_BIO
 ## Bug report
 
 Issued [here](https://issuetracker.google.com/issues/335640701).
+
+## Posts on that topic
+Here are some posts I found mentioning the exact same issue: [1](https://stackoverflow.com/questions/29675423/is-gradle-toolsselector-for-permissions-works-ever), [2](https://stackoverflow.com/questions/27962789/android-gradle-manifest-merger-override-uses-permission-attribute-coming-from#comment45905521_27963177), [3](https://stackoverflow.com/questions/27962789/android-gradle-manifest-merger-override-uses-permission-attribute-coming-from#comment44320864_27963177).
