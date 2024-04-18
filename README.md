@@ -32,3 +32,7 @@ The former APK still has the `USE_BIOMETRIC` permission declaration, whereas the
 
 ### Expected result:
 Both APK's don't have `<uses-permission android:name="android.permission.USE_BIOMETRIC">` inside their manifests.
+
+## Bug report
+
+Issued [here](https://issuetracker.google.com/issues/335640701).
